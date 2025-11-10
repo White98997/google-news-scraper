@@ -1,0 +1,12 @@
+{
+  "language": "en",
+  "region": "US",
+  "maxItems": 200,
+  "fetchArticleDetails": true,
+  "userAgent": "Mozilla/5.0 (compatible; Bitbash-GN-Scraper/1.0; +https://bitbash.dev)",
+  "query": "web scraping",
+  "topic": null,
+  "hashedTopic": null,
+  "dateFrom": null,
+  "dateTo": null
+}
